@@ -59,10 +59,9 @@ A predictive model that forecasts crop yield based on soil quality, rainfall, te
 ## Connect with Me
 
 Connect with Me
-- Email: kousalyapatibandla27@gmail.com
-- Phone: +91-9603993301
-
-**Linkedin:** https://www.linkedin.com/in/kousalyapatibandla/
+- **Email:** kousalyapatibandla27@gmail.com
+  
+- **Linkedin:** https://www.linkedin.com/in/kousalyapatibandla/
 
 
 ## Recent Activity
