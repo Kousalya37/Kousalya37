@@ -22,27 +22,37 @@ Python, Java, HTML/CSS/JS, Flask, MySQL, Git/GitHub, VS Code, AWS (EC2, S3, Serv
 ## Top Projects
 
 **🐾 Animal Emotion Recognition**
+
 A multimodal deep learning system that classifies animal emotions using audio (Wav2Vec2), images (Vision Transformer via OpenCLIP), and biometric sensor data.
 - GPT-4 generates natural language explanations for transparency.
 - Fusion via LSTM and dense neural networks.
 - Real-time emotion classification with Flask backend and web frontend.
+  
 **Tech Stack:** Python, Flask, HTML/CSS/JS, Wav2Vec2, Vision Transformer, LSTM, GPT-4
 
 **🌾 Crop Yield Prediction**
+
 A predictive model that forecasts crop yield based on soil quality, rainfall, temperature, and crop type.
 - Helps farmers and researchers make data-driven decisions.
 - ntegrated with ThingSpeak cloud and IoT sensors.
+
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Arduino/ESP32, HTML/CSS/JS, Cloud (ThingSpeak)
 
 
 ## Technical Skills
 
 • Programming: Java, Python(familiar) 
+
 • Development: HTML, CSS, Flask 
+
 • Databases: MySQL, SQL (Joins, Subqueries, Indexing) 
+
 • Tools: Git, GitHub, VS Code 
+
 • CS Subjects: Data structures and Algorithms, OOPs concepts 
+
 • Libraries: NumPy, Pandas, Scikit-learn  
+
 • Cloud: AWS (EC2, S3, Serverless) 
 
 
