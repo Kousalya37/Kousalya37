@@ -41,19 +41,19 @@ A predictive model that forecasts crop yield based on soil quality, rainfall, te
 
 ## Technical Skills
 
-• Programming: Java, Python(familiar) 
+• **Programming:** Java, Python(familiar), SQL  
 
-• Development: HTML, CSS, Flask 
+• **Development:** HTML, CSS, Flask 
 
-• Databases: MySQL, SQL (Joins, Subqueries, Indexing) 
+• **Databases:** MySQL,
 
-• Tools: Git, GitHub, VS Code 
+• **Tools:** Git, GitHub, VS Code 
 
-• CS Subjects: Data structures and Algorithms, OOPs concepts 
+• **CS Subjects:** Data structures and Algorithms, OOPs concepts 
 
-• Libraries: NumPy, Pandas, Scikit-learn  
+• **Libraries:** NumPy, Pandas, Scikit-learn  
 
-• Cloud: AWS (EC2, S3, Serverless) 
+• **Cloud:** AWS (EC2, S3, Serverless) 
 
 
 ## Connect with Me
