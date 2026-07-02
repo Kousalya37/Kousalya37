@@ -1,6 +1,6 @@
 ## Summary
 
-Hi, I'm Kousalya Patibandla, an aspiring software engineer with a passion for AI, machine learning, and building impactful tech solutions. I thrive on solving real-world problems through code and creativity. I love blending innovation with purpose. Currently pursuing my B.Tech. in Computer Science, I'm on a journey to master cloud computing, deep learning.
+Hi, I'm Kousalya Patibandla, an aspiring software engineer with a passion for AI, machine learning, and building impactful tech solutions. I love blending innovation with purpose. Currently pursuing my B.Tech. in Computer Science, I'm on a journey to master cloud computing, deep learning.
 
 
 ## About Me
@@ -45,9 +45,7 @@ A predictive model that forecasts crop yield based on soil quality, rainfall, te
 
 • **Development:** HTML, CSS, Flask 
 
-• **Databases:** MySQL,
-
-• **Tools:** Git, GitHub, VS Code 
+• **Databases:** MySQL
 
 • **CS Subjects:** Data structures and Algorithms, OOPs concepts 
 
