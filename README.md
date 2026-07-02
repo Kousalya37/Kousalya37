@@ -16,7 +16,7 @@ CGPA: 9.10
 AI/ML, cloud infrastructure (AWS), computer vision, NLP, and beginner-friendly project design.
 
 💬 **Languages & Tools:**
-Python, Java, HTML/CSS/JS, Flask, MySQL, Git/GitHub, VS Code, AWS (EC2, S3, Serverless)
+Python, Java, HTML/CSS, Flask, MySQL, VS Code, AWS (EC2, S3, Serverless)
 
 
 ## Top Projects
@@ -47,11 +47,11 @@ A predictive model that forecasts crop yield based on soil quality, rainfall, te
 
 • **Databases:** MySQL
 
-• **CS Subjects:** Data structures and Algorithms, OOPs concepts 
+• **CS Subjects:** DBMS, OS, CN, OOPs concepts 
 
 • **Libraries:** NumPy, Pandas, Scikit-learn  
 
-• **Cloud:** AWS (EC2, S3, Serverless) 
+• **Cloud:** AWS (EC2, S3, Serverless), ThingSpeak 
 
 
 ## Connect with Me
