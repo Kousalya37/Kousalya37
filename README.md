@@ -8,7 +8,7 @@ Hi, I'm Kousalya Patibandla, an aspiring software engineer with a passion for AI
 🎓 **Education:**
 - B.Tech. in Computer Science and Engineering at 
 Vignan's Nirula Institute of Technology and Science for Women (2023–Present)
-CGPA: 9.17
+CGPA: 9.10
 - Senior Secondary – APBIE Board (2021–2023) – 97.6%
 - Secondary School – SSC Board (2021) – GPA: 10.0
 
